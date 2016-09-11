@@ -1,0 +1,1 @@
+Hello there. This is my first project in python. This project is a game called Rock, Paper and Scissors. It was very fun to make and I got help from friends to make the random winner function. I hope you enjoy my fun game.
